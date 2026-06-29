@@ -19,6 +19,7 @@ backend/.env
 # Docker volumes
 postgres_data/
 redis_data/
+uploads/
 
 # AI model artifacts (too large for Git — use Git LFS or cloud storage)
 ai/models/*.pkl
